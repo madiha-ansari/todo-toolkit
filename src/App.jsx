@@ -10,7 +10,7 @@ function App() {
   const [editText, setEditText] = useState("");
 
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center p-6">
+    <div className="min-h-screen bg-gray-600 flex flex-col items-center p-6">
       {/* Header */}
       <header className="bg-gradient-to-r from-pink-500 to-pink-500 text-white text-3xl font-bold py-4 px-8 rounded-md shadow-md">
         Todo App
